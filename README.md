@@ -10,7 +10,7 @@ This project provides an end-to-end retail analytics pipeline using Python, SQL 
 |-------------------------------------|-------------|
 | `Supermarket Retail Analytics Dataset.csv` | Raw input dataset |
 | `supermart_cleaned_dataset.csv`     | Cleaned and preprocessed dataset |
-| `supermarket_retail_analytics.py`   | Python code for EDA, clustering, KPIs |
+| `supermarket_retail_analytics.py`   | Python code for data cleaning, EDA, KPIs, clustering |
 | `supermart_sales.sql`               | SQL scripts for DB creation and analysis |
 | `Supermart_sales.pbix`              | Power BI interactive dashboard |
 | `README.md`                         | Project overview and guide |
