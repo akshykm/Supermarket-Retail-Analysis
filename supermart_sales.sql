@@ -1,4 +1,8 @@
+-- Create Database
+CREATE DATABASE supermarket_sales;
 
+-- Switch to the database
+\c supermarket_sales;
 
 -- Drop the table if it already exists --
 DROP TABLE IF EXISTS supermarket_sales;
