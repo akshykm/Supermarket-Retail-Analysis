@@ -59,6 +59,8 @@ Get descriptive stats, trends, and KPIs using SQL queries
 Open `Supermart_sales.pbix` in Power BI Desktop
 Explore KPIs, filters, time-series charts, and region-wise performance
 
+---
+
 ### Executive Summary: Insights & Recommendations
 **Top Category Drive Revenue**: Snacks & Eggs, Meat & Fish are the most profitable and high-volume categories. Invest in supply chain and marketing for these.
 
