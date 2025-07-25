@@ -66,7 +66,7 @@ Explore KPIs, filters, time-series charts, and region-wise performance
 
 **Sub-Category Focus**: Noodles and Fish offer consistently high profit margins. Explore bundling offers or featured listings for these.
 
-**Regional Growth Opportunities**: Vellore city dominate revenue
+**Regional Growth Opportunities**: Vellore city dominate revenue and Trichy have less revenue.
 
 **Seasonal Peaks**: October to December sees spikes in orders—likely festive-driven. Stock up and launch promotions in advance.
 
