@@ -250,6 +250,17 @@ FROM supermarket_sales
 GROUP BY sub_category
 ORDER BY price_before_profit DESC;
 
+-- Top 10 high-value customers--
+SELECT 
+    customer_name,
+    order_id,
+    sales,
+    profit
+FROM 
+    supermarket_sales
+ORDER BY 
+    Profit DESC
+LIMIT 10;
 
 --Assuming Sales price is after discount price to find original price--
 SELECT order_id,
