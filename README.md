@@ -61,10 +61,16 @@ Explore KPIs, filters, time-series charts, and region-wise performance
 
 ### Executive Summary: Insights & Recommendations
 **Top Category Drive Revenue**: Snacks & Eggs, Meat & Fish are the most profitable and high-volume categories. Invest in supply chain and marketing for these.
+
 **Sub-Category Focus**: Noodles and Fish offer consistently high profit margins. Explore bundling offers or featured listings for these.
+
 **Regional Growth Opportunities**: Vellore city dominate revenue
+
 **Seasonal Peaks**: October to December sees spikes in orders—likely festive-driven. Stock up and launch promotions in advance.
+
 **Discount Efficiency**: Discount clustering revealed that excessive discounts do not always correlate with increased profit. Optimize discount thresholds to balance competitiveness and margin protection.
+
 **Loss Leaders Identified**: A significant number of Masala products are being sold at a loss due to excessive discounts. These loss leaders have been identified using clustering techniques and exported for targeted action.
+
 **Loss-Making Products**: Categories like Health Drinks and Spices frequently cause losses. Consider cost revaluation, supplier change, or promotional revamp.
 
