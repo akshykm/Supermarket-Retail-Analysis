@@ -274,6 +274,19 @@ WHERE
     Sales > 2000 AND profit < 200
 	ORDER BY profit ASC;
 
+--Low-profit orders below 10%--
+SELECT 
+    order_id,
+    customer_name,
+    sales,
+    profit,
+    ROUND((profit / sales) * 100, 2) AS profit_margin_percent
+FROM 
+    supermarket_sales
+WHERE 
+    (profit / sales) * 100 < 10
+ORDER BY profit_margin_percent ASC;
+
 --Assuming Sales price is after discount price to find original price--
 SELECT order_id,
   ROUND(sales / (1 - discount), 2) AS selling_price,
