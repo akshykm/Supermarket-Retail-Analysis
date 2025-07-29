@@ -262,6 +262,18 @@ ORDER BY
     Profit DESC
 LIMIT 10;
 
+--Low-profit high-value transactions--
+SELECT 
+    customer_name,
+    order_id,
+    sales,
+    profit
+FROM 
+    supermarket_sales
+WHERE 
+    Sales > 2000 AND profit < 200
+	ORDER BY profit ASC;
+
 --Assuming Sales price is after discount price to find original price--
 SELECT order_id,
   ROUND(sales / (1 - discount), 2) AS selling_price,
